@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Isabelle Huppert](https://via.placeholder.com/800x400/8B0000/FFFFFF?text=Isabelle+Huppert)
+![Isabelle Huppert](https://www.themoviedb.org/t/p/w500/7WqCpYZdOdsEBBu2eFKXOzbyJKp.jpg)
 
 **Поклонник выдающейся французской актрисы - Изабель Юппер**
 
